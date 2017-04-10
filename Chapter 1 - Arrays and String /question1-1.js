@@ -7,4 +7,5 @@ function allUnique(str){
   });
 
   return result;
+
 }
